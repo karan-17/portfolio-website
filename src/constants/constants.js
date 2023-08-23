@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'NXTGEN-OSDC',
     description:"A website for the Open Source Developers Community of IPEC, Ghaziabad. It is built using MERN Stack. It has a blog section where the members of the community can share their experiences and learnings. It also has a forum section where the members can discuss about their projects and ideas.",
-    image: '/images/nextgen OSDC.PNG',
+    image: '/images/nextgen.png',
     tags: ['JavaScript', 'React', 'Express', 'MongoDB', 'NodeJs'],
     source: 'https://github.com/karan-17/nxtgen-osdc-web',
     visit: 'https://nxtgen-osdc.netlify.app/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'BMI Calculator App',
     description: "This is a BMI Calculator App built using Flutter. It is a simple app which takes the height and weight of the user and calculates the BMI of the user. A little of state management and animation is also used in this app.",
-      image: '/images/.jpg',
+      image: '/images/3.jpg',
       tags: ['Flutter', 'Dart'],
     source: 'https://github.com/karan-17/Flutter-Learning-BMI-calculator',
     visit: 'https://github.com/karan-17/Flutter-Learning-BMI-calculator',
